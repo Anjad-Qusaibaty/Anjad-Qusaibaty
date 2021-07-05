@@ -1,4 +1,4 @@
-### Hey Welcome to my Github profile 👋
+### Hey Welcome To My Github profile 👋
 
 My name is **Anjad Qusaibaty** 🥸. I am originally from Syria but I think of myself as a "citizen of the world" as Diogenes once said. I've been living in the Netherlands 🇳🇱 since 2014.
 
