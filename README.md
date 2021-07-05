@@ -6,11 +6,11 @@ I've always been interested in technology, especially its creative side. In Apri
 
 - 📫  You can reach me on my [Linkedin](https://www.linkedin.com/in/anjad-qusaibaty-70933331/).
 
-- 🔭  I’m currently working on Zenoword, my personal project for wordaholics and books' lovers.
+- 🔭  I’m currently working on **Zenoword**, my personal project for wordaholics and books' lovers.
   - [Zenoword frontend Repo](https://github.com/Anjad-Qusaibaty/Zenoword_Frontend)
   - [Zenoword backend Repo](https://github.com/Anjad-Qusaibaty/Zenoword_Backend)
 
-- 😁  Fun past projects:
+- 😁  **Fun past projects:**
   - [GRAM Arcade](https://gramarcade.netlify.app/): in this group project we built an arcade with two mini games where the main protagonists are Karla Evelize and Matias Garcia, our teachers in [Codaisseur](https://codaisseur.com/courses/academy/) academy.
     - [GRAM Arcade frontend Repo](https://github.com/Rairakzak/gram-arcade)
     - [GRAM Arcade backend Repo](https://github.com/Anjad-Qusaibaty/GRAM_ARCADE_Backend)
